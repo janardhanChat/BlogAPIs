@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "1-implement-the-image-upload-using-the-multer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "1-implement-the-image-upload-using-the-multer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "1-implement-the-image-upload-using-the-multer",
+    "origin"
+  ]
+}
